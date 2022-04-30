@@ -1,22 +1,14 @@
-import logo from './logo.svg';
+import babygirl from './images/6eendd.gif';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={babygirl} alt="funnypic" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Webs is having a lot of fun with friends
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
